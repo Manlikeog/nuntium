@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nuntium</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_to_know">First to know</string>
+    <string name="login_header">All news in one place, be the first to know last news</string>
+    <string name="login_button">Next</string>
+</resources>

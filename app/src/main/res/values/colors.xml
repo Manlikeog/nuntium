@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#FF475AD7</color>
+    <color name="lightPrimary">#FF8A96E5</color>
+    <color name="lighterPrimary">#FFEEF0FB</color>
+    <color name="darkerPrimary">#FF2536A7</color>
+    <color name="blackDarker">#FF22242F</color>
+    <color name="blackPrimary">#FF333647</color>
+    <color name="blackLight">#FF44485F</color>
+    <color name="blackLighter">#FF555A77</color>
+    <color name="greyDarker">#FF666C8E</color>
+    <color name="greyPrimary">#FF7C82A1</color>
+    <color name="greyLight">#FFACAFC3</color>
+    <color name="greyLighter">#FFF3F4F6</color>
+</resources>
